@@ -13,9 +13,7 @@ html {
   background-color: #f7f7f9;
   width: 375px;
   border: 1px solid #f7f7f9;
-
-  /* margin: 0 auto; */
-  float: right;
+  margin: 0 auto;
 }
 
 .work {
